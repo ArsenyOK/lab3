@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Roboto, sans-serif;
+ }
+
+ body {
+    background: yellow;
+ }
+
+ .block-data {
+    margin: 50px 0;
+ }
+
+ .block-data ul {
+    margin: 10px 0 10px 20px;
+ }
+
+ header {
+    background: blue;
+    padding: 10px 20px;
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+ }
+
+ main {
+    padding: 30px 20px;
+ }
+
+ p {
+    margin-bottom: 10px;
+ }
+
+ .container {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+ }
+
+ #response {
+    margin: 40px;
+ }
+
+ ul#response p {
+    color: red;
+ }
